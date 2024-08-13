@@ -26,6 +26,11 @@ def Nuthan Varma:
 
 
 
+<h2  align="center">👀 Reach out</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuthan-varma-0bb212221/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:varmanuthan57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <h2  align="center">👀 Check out</h2>
 <p align="center">
   <a href="https://www.hackerrank.com/profile/varmanuthan57" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
