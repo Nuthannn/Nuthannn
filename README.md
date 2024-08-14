@@ -7,7 +7,7 @@
 ```bash
 def Nuthan Varma:
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python],
+  code: [Python, Javascript, HTML, CSS],
   tools: [Visual Code, Git, GitHub, Gazebo Simulation, ServiceNow Platform],
   communicationTools: [ Slack, Zoom, Linkedin, Discord, GitHub Projects],
 ```
